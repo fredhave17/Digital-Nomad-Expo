@@ -1,2 +1,2 @@
 # Digital-Nomad-Expo
-App criado em expo
+App de nomad digital criado em expo
